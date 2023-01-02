@@ -1,3 +1,3 @@
-module github.com/miromiro1/keepaapi
+module github.com/miromiro11/keepaapi
 
 go 1.19
